@@ -1,0 +1,6 @@
+{
+  "name": "Aura 3D Login",
+  "description": "A professional 3D photorealistic glassmorphic login page featuring interactive volumetric lighting, live parallax particles, and deep custom-styled smoke simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
